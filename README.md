@@ -3,7 +3,7 @@ Nintendo Arcade Theme based Web Application
 
 ![architecture image][image]
 
-[image]: https://github.com/rupakc/Arcadia/blob/master/arcadia%20architecture.png
+[image]: https://github.com/rupakc/Arcadia/blob/main/arcadia%20architecture.png
 
 The application is built on <b> React (front-end) </b> and <b> Node (back-end) </b>. It has made use of the NES style CSS for the UI styling. It fetches data from a multitude of data sources like OMDB API, Star Wars API, Harry Potter API, Final Space and Breaking Bad.
 
